@@ -1,6 +1,6 @@
 ## 安装
 1.Python2.7<br>
-2.Node.js<br>
+2.Node.js（4.0以上）<br>
 3.JDK（8.0版本）<br>
 4.Android Stdio<br>
 5.运行命令(将npm下载的地址转为国内的地址，加快下载速度)
